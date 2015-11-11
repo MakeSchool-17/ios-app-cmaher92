@@ -29,6 +29,7 @@ Swift 2.0
 Back-end:
 Django
 Python
+MariaDB
 
 Web:
 Django
@@ -53,3 +54,7 @@ Time
 Will post a web version of the data-model once finalized.
 
 ##MVP Milestones
+11/11/2015 - MVP object-model finalized (as close as possible).
+11/11/2015 - Database created.
+11/13/2015 - Basic UI done with data persistance using dummy data and Realm.
+
