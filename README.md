@@ -2,6 +2,7 @@
 User posted clips from the best E-sports youtube channels
 
 # Technologies
+http://imgur.com/vM72A2I
 Backend: (Done)
 ExpressJS
 Passport
@@ -16,7 +17,7 @@ Fanfeed is a place for gaming enthusiasts to go watch and share the most popular
 
 
 # Screens
-<iframe width="438" height="930" src="//invis.io/DW513ZK74" frameborder="0" allowfullscreen></iframe>
+https://invis.io/6Z513ZJ37
 
 
 # MVP
