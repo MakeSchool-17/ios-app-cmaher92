@@ -5,6 +5,7 @@ consumer_secret = 'dfZxFrG2ny9IlCeeiMZUrdTyq3Fbjv7yJbuxBTtaP3ljoAnUhQ'
 access_token_key = '1679226714-CzxZ3cKp62vby4AqNoJ3W0ZtBom4hZZErMtPN5J'
 access_token_secret = 'usl4ODEdismL71aN8RJDvpiECAI41287HWjAbBzboQJjH'
 count = 0
+tweets = []
 
 api = TwitterAPI(consumer_key,
                  consumer_secret,
@@ -14,5 +15,7 @@ api = TwitterAPI(consumer_key,
 r = api.request('statuses/filter', {'track': 'bitcoin'})
 for item in r.get_iterator():
     if 'text' in item:
+        print item('text')
         count += 1
         print(count)
+        tweets.append(item('text'))
