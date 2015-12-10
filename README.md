@@ -30,7 +30,7 @@ https://invis.io/6Z513ZJ37
 - 
 
 # Current Obstacles
-* Staying on one path, not losing focus on the customer, one obstacle at a time *
+(Staying on one path, not losing focus on the customer, one obstacle at a time)
 - How to handle loading of videos
 - How to place the thumbnail
 - How to build a video clipper programatically
