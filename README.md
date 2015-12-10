@@ -1,3 +1,6 @@
+# Days until demo day
+34
+
 # Fanfeed
 User posted clips from the best E-sports youtube channels
 
@@ -30,7 +33,6 @@ https://invis.io/6Z513ZJ37
 - 
 
 # Current Obstacles
-(Staying on one path, not losing focus on the customer, one obstacle at a time)
 - How to handle loading of videos
 - How to place the thumbnail
 - How to build a video clipper programatically
