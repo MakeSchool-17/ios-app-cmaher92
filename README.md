@@ -23,10 +23,19 @@ https://invis.io/6Z513ZJ37
 # MVP
 - Backend (Done)
 - Learn auto-layout, apply to post cell, create readme, finish designs (12/11/2015) (Done)
-- Build out the first table view UI (12/12/2015)
+- Build out the first table view UI (12/12/2015) 
 - Build out the top table view UI (12/12/2015)
 - Build out the profile page UI (12/13/2015)
 - Build out the post a video UI (12/15/2015)
+- 
+
+# Current Obstacles
+* Staying on one path, not losing focus on the customer, one obstacle at a time *
+- How to handle loading of videos
+- How to place the thumbnail
+- How to build a video clipper programatically
+- How to build my login system? Stick with twitter?
+- How to adjust viewing of videos, widescreen is difficult, considering doing something similar to youtube
 
 
 # Future Goals
