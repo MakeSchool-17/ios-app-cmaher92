@@ -1,5 +1,5 @@
 # Days until demo day
-34
+33
 
 # Fanfeed
 User posted clips from the best E-sports youtube channels
