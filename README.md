@@ -36,13 +36,13 @@ https://invis.io/6Z513ZJ37
 - Sort table views based on votes ()
 - 
 
-# Current Obstacles
-These obstacles are related to my current goal, as I complete each goal I will remove these obstacles.
-- 
+# Current Obstacles  
+These obstacles are related to my current goal, as I complete each goal I will remove these obstacles.  
 
-# Lingering Obstacles not necessarily stopping progress
-- Customize tab bar controller programatically
-- 
+
+# Lingering Obstacles not necessarily stopping progress  
+- Customize tab bar controller programatically  
+-   
 
 
 # Future Goals
