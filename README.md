@@ -42,7 +42,6 @@ These obstacles are related to my current goal, as I complete each goal I will r
 
 # Lingering Obstacles not necessarily stopping progress  
 - Customize tab bar controller programatically  
--   
 
 
 # Future Goals
